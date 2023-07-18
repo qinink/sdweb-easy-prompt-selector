@@ -58,4 +58,63 @@
   屁股: ass
   大腿: thighs
 
-  
+提亚马特:
+  0.8到1:  <lora:FGOTiamatv2:1>
+  兽阶: 3rdFGO, AlteregoFinalClothing
+  第一套: FirLarva, 1stOutfit
+  长袖连裤袜: SecLarva, 2ndClothing, sleeves past wrists, pantyhose
+  FGO服装: FGOArc3, 3rdAscensionCostume, big breasts
+  FGO最终服装: TiamatBeast, BeasrIICloth
+  符号形的眼睛: symbol-shaped eyes
+  角: horns
+  卷曲的角: curled horns
+  尖尖的耳朵: pointy ears
+
+鬼灭之刃:
+  甘露寺蜜璃:
+    lora:  <lora:ganlusi_v2.0:1>
+    本体: glsml
+    独奏: solo
+    一个女孩: 1girl
+  祢豆子:
+    lora: <lora:midouzi_v1.0:1>
+    本体: Kamado_Nezuko
+
+火影:
+  芙:
+    0.65到0.9:  <lora:FuuAlt:1>
+    本体: fuu
+    分离式袖子:  detached sleeves
+    作物顶部: crop top
+    渔网: fishnets
+    裙子: skirt
+    背包: backpack
+    基本提示: fuu, 1girl, solo, hair ornament, orange eyes, hairclip, bare shoulders, collarbone, looking at viewer, aqua hair, fishnets,skirt,groin, detached sleeves,closed mouth, upper body
+  花火:
+    0.65到0.9: <lora:Hanabi:1>
+    本体: hyuuga hanabi
+    橙色和服、腰带: orange kimono, obi
+    袴裙: hakama skirt
+    低扎长发: low tied long hair
+    发夹: hair bow
+    本体2: hana
+    火焰印花和服: flame print kimono
+    博人传提示: masterpiece, absurdres, hyuuga hanabi , 1girl, solo, orange kimono, hakama skirt, obi, looking at viewer,medium breasts
+    剧场版提示: masterpiece, absurdres,hana, flame print kimono, solo, long hair,upper body, 1girl, smile,outdoors,night sky,  fireworks, looking at viewer, standing, hair bow
+  雏田:
+    0.7到0.8: <lora:Hinata[Shippuden]:1>
+    本体: hinata\(shippuden\)
+    连帽夹克: hooded jacket
+    脖子上的头带，木叶符号，渔网: headband around neck,konohagakure symbol,fishnets
+    蓝色裤子: blue pants
+    另一种发型，侧马尾辫:  alternate hairstyle, side ponytail
+    疾风传提示: masterpiece, absurdres, 1girl, hinata\(shippuden\),solo,blush, hooded jacket, headband around neck, konohagakure symbol, fishnets, blue pants, looking at viewer, outdoors, sunlight,smile,cowboy shot
+    替代提示: masterpiece, absurdres, 1girl, hinata\(shippuden\), solo, naked towel, large breasts, grabbing own breast, alternate hairstyle, side ponytail, looking at viewer, blush, embarrassed,
+  天天:
+    0.65到0.9: <lora:last:1>
+    本体: tenten\(shippuden\)
+    白衬衫: white shirt
+    垮裤:  hakama pants
+    额头保护器、木叶隐符号、头带、: forehead protector, konohagakure symbol, headband,
+    基本提示: absurdres, (best quality),(masterpiece),tenten\(shippuden\), 1girl, solo, hakama pants,white shirt, medium breasts, hand on hip,forehead protector, konohagakure symbol, headband,  looking at viewer, outdoors, bamboo forest,  frown
+
